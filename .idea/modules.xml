@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webconsole-branding/branding.iml" filepath="$PROJECT_DIR$/webconsole-branding/branding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdl-webconsole.iml" filepath="$PROJECT_DIR$/cdl-webconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webconsole-plugin/webconsole.iml" filepath="$PROJECT_DIR$/webconsole-plugin/webconsole.iml" />
+    </modules>
+  </component>
+</project>
+
